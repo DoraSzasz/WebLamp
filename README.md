@@ -3,6 +3,7 @@ The project creates a webapplication to control a lamp via a webapp.
 
 ## Connection
 * A PowerSwitchTail II is connected to GPIO25 of Raspberry Pi 3 Model B.
+* The web server is based on Flask: ```sudo pip install flask```
 
 ## Run the server
 
